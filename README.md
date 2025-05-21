@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Tzuwei Li！
+# Hi, I'm Tzuwei Li！
 
 🎓 國立高雄大學資訊工程學系學生 | Student @ National University of Kaohsiung (CSIE)  
-💡 資料分析、人工智慧與跨領域應用、網頁程式設計與 UI/UX 整合開發;
+💡 資料分析、人工智慧與跨領域應用、網頁程式設計與 UI/UX 整合開發
 🚀 對於 AI、LLM 應用、目前持續學習與實作中！
 
 ---
@@ -22,7 +22,7 @@
 以生成式 AI 和基因演算法建構的智慧股票投資決策系統，具備即時分析與多平台支援。
 
 ### 🔹 [Off-Campus Housing System](https://github.com/yourprojectlink)  
-針對學生租屋需求所開發的多角色管理系統，支援房東、學生與系所導師功能。
+針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
 
 ### 🔹 [Image Similarity Search](https://github.com/yourprojectlink)  
 使用餘弦相似度、歐氏距離與皮爾森係數比對 10,000 張圖片的相似度，支援互動式查詢。
