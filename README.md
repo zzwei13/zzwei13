@@ -24,7 +24,7 @@
 ### 🔹 [Off-Campus Housing System](https://github.com/zzwei13/offcampus-housing-nuk.git)  
 針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
 
-### 🔹 [AI Stories Generator](https://github.com/zzwei13/ai-stories-generator.git)  
+### 🔹 [AI-Driven Personalized Storytelling and Content Creation Platform](https://github.com/zzwei13/ai-stories-generator.git)  
 
 ---
 
