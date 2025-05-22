@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 技術技能 | Skills
+## 技術技能 | Skills
 
 - **程式語言**：Python, C/C++, SQL
 - **前端設計**：HTML, CSS, JavaScript
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 精選專案 | Projects
+## 精選專案 | Projects
 
 ### 🔹 [Gen-AI Stock Master](https://github.com/yourprojectlink)  
 以生成式 AI 和基因演算法建構的智慧股票投資決策系統，具備即時分析與多平台支援。
@@ -24,17 +24,15 @@
 ### 🔹 [Off-Campus Housing System](https://github.com/yourprojectlink)  
 針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
 
-### 🔹 [Image Similarity Search](https://github.com/yourprojectlink)  
-使用餘弦相似度、歐氏距離與皮爾森係數比對 10,000 張圖片的相似度，支援互動式查詢。
 
 ---
 
 ## 📫 聯絡我 | Contact Me
 
-- 📧 Email: [ziwei.zw.li@gmail.com]  
+- Email: [ziwei.zw.li@gmail.com]  
 
 
 ---
 
-> 💬 歡迎交流合作機會或任何技術討論，樂於分享與學習！
+> 歡迎交流合作機會或任何技術討論，樂於分享與學習！
 
