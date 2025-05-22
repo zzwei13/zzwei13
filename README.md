@@ -34,9 +34,5 @@ ExcelDB 是一套基於 Excel 檔案格式實作的簡易資料庫系統。使�
 ## 📫 聯絡我 | Contact Me
 
 - Email: [ziwei.zw.li@gmail.com]  
-
-
----
-
 > 歡迎交流合作機會或任何技術討論，樂於分享與學習！
 
