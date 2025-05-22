@@ -25,7 +25,7 @@
 針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
 
 ### 🔹 [AI Stories Generator](https://github.com/zzwei13/ai-stories-generator.git)  
-針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
+
 ---
 
 ## 📫 聯絡我 | Contact Me
