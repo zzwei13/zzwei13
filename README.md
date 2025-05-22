@@ -26,6 +26,9 @@
 ### 🔹 [AI-Driven Personalized Storytelling and Content Creation Platform](https://github.com/zzwei13/ai-stories-generator.git)  
 結合自然語言處理與生成式 AI 技術，提供用戶量身定制的故事創作及多媒體內容生成，並支援互動式回饋優化
 
+### 🔹 [ExcelDB - Excel based database](https://github.com/zzwei13/database-system.git)
+ExcelDB 是一套基於 Excel 檔案格式實作的簡易資料庫系統。使用者透過網頁介面可視覺化操作類似 MySQL 的功能，包括建立資料庫與資料表、新增與查詢資料、資料匯入匯出等。系統不使用傳統資料庫（如 MySQL、SQLite），而是以檔案系統方式進行儲存。
+
 ---
 
 ## 📫 聯絡我 | Contact Me
