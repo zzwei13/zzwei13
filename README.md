@@ -2,7 +2,6 @@
 
 🎓 國立高雄大學資訊工程學系學生 | Student @ National University of Kaohsiung (CSIE)  
 💡 資料分析、人工智慧與跨領域應用、網頁程式設計與 UI/UX 整合開發
-🚀 對於 AI、LLM 應用、目前持續學習與實作中！
 
 ---
 
