@@ -18,13 +18,14 @@
 
 ## 精選專案 | Projects
 
-### 🔹 [Gen-AI Stock Master](https://github.com/yourprojectlink)  
-以生成式 AI 和基因演算法建構的智慧股票投資決策系統，具備即時分析與多平台支援。
+### 🔹 [Fintech LLM Assistant](https://github.com/zzwei13/fintech-llm-assistant.git)  
+結合生成式 AI 技術與金融分析的 Web 應用平台，平台上提供使用者長期投資建議。
 
-### 🔹 [Off-Campus Housing System](https://github.com/yourprojectlink)  
+### 🔹 [Off-Campus Housing System](https://github.com/zzwei13/offcampus-housing-nuk.git)  
 針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
 
-
+### 🔹 [AI Stories Generator](https://github.com/zzwei13/ai-stories-generator.git)  
+針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
 ---
 
 ## 📫 聯絡我 | Contact Me
