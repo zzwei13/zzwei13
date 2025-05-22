@@ -25,6 +25,7 @@
 針對學生租屋需求所開發的多角色管理系統，支援房東、學生與導師功能。
 
 ### 🔹 [AI-Driven Personalized Storytelling and Content Creation Platform](https://github.com/zzwei13/ai-stories-generator.git)  
+結合自然語言處理與生成式 AI 技術，提供用戶量身定制的故事創作及多媒體內容生成，並支援互動式回饋優化
 
 ---
 
