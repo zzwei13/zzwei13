@@ -17,7 +17,7 @@
 
 ## 精選專案 | Projects
 
-### 🔹 [Fintech LLM Assistant](https://github.com/zzwei13/fintech-llm-assistant.git)  
+### 🔹 [Fintech LLM Assistant](https://github.com/zzwei13/fintech-llm-assistant-senior-project.git)
 結合生成式 AI 技術與金融分析的 Web 應用平台，平台上提供使用者長期投資建議。
 
 ### 🔹 [Off-Campus Housing System](https://github.com/zzwei13/offcampus-housing-nuk.git)  
